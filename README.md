@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Federico</h1>
 <h3 align="center">A passionate backend developer from Argentina</h3>
 
-- 🌱 I’m currently learning **nodeJS, .NET**
+- 🌱 I’m currently learning **nodeJS, PostgreSQL**
 
 - 📫 How to reach me **fedemartindev05@gmail.com**
 
